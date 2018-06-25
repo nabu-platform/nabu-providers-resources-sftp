@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<maven>
+    <artifacts>be.nabu.libs.resources:resources-sftp</artifacts>
+    <encapsulated>false</encapsulated>
+    <provided>be.nabu.libs.resources:resources-api</provided>
+    <provided>be.nabu.libs.authentication:authentication-api</provided>
+    <updateSnapshots>false</updateSnapshots>
+</maven>
