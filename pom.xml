@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nabu.providers.resources</groupId>
 	<artifactId>sftp</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>${nabu.providers.resources-sftp-version}</version>
 	<name>sftp</name>
 	
 	<parent>
