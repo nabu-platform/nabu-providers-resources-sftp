@@ -11,6 +11,8 @@ $cat id_rsa_test-key.pub >> ~/.ssh/authorized_keys
 
 Note that the public keys are generated with a trailing linefeed to enable this.
 
+You can remove the public key simply by removing the line in the authorized_keys file.
+
 # Authentication
 
 The sftp provider supports a number of query parameters:
