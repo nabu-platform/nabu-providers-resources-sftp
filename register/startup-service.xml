@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<startupService>
+    <service>nabu.utils.Resource.registerResolver</service>
+    <asynchronous>false</asynchronous>
+    <properties>
+        <property key="resolver">be.nabu.libs.resources.sftp.SftpResourceResolver</property>
+    </properties>
+</startupService>
